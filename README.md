@@ -3,3 +3,5 @@ A java program that takes care of  managing the inventory of a grocery store, it
 
 The project is now in phase 2, it will be regularly updated with new features.
 
+
+Main file is InventoryDriver.java, run it after importing the JavaFX library in your IDE.
